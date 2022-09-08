@@ -1,0 +1,2 @@
+# rtext
+random text strings
